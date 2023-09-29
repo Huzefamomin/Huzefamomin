@@ -1,4 +1,4 @@
-                                                                     # 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+                                                           #𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 🌱 Embarking on a journey into the exciting realm of Web Development.<br>✨ Crafting the digital world, one pixel and line of code at a time.<br>🌐 Open to chat about all things web development—let's learn together!<br>💡 Exploring the endless possibilities of web design and interactivity.<br>⚡ Fun Fact: Coding is my passport to a boundless digital journey! 💻😄
 
 
