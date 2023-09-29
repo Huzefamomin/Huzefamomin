@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Huzefa Momin</h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h1>
+<h1 align="center">I'm Huzefa Momin, a Web Developer 👨‍💻 </h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[[https://miro.medium.com/v2/resize:fit:828/1*gReLR6hZjwyBxHmfLN1AVw.gif](https://technostupid.com/frontend/images/95116-coder.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3GJ087ZK-h3j6g8d-DhrHS&ust=1696099600482000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCMjk4Li-0IEDFQAAAAAdAAAAABCBAQ)](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*gReLR6hZjwyBxHmfLN1AVw.gif](https://technostupid.com/frontend/images/95116-coder.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3GJ087ZK-h3j6g8d-DhrHS&ust=1696099600482000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCMjk4Li-0IEDFQAAAAAdAAAAABCBAQ)](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzefamomin&label=Profile%20views&color=0e75b6&style=flat" alt="huzefamomin" /> </p>
 
