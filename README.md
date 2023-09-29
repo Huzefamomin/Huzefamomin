@@ -4,11 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzefamomin&label=Profile%20views&color=0e75b6&style=flat" alt="huzefamomin" /> </p>
 
+
 - 🌱 I’m currently learning **MERN Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Web Development**
 - 💬 Ask me about **anything related to Web Development and related technologies**
 - 📫 How to reach me **huzefamomin45@gmail.com**
 - ⚡ Fun fact **Coding is my passport to a boundless digital journey! 💻😄**
+
+</br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Huzefamomin/count.svg" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +35,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzefamomin&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 
-<p Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level./></p>
+Note: The count of programming languages present in my public code repositories is merely a measure of language diversity and doesn't provide an accurate reflection of my level of experience or skill in programming.
 
