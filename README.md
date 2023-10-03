@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **MERN Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Web Development**
 - 💬 Ask me about **anything related to Web Development and related technologies**
-- 📫 How to reach me **huzefamomin45@gmail.com**
-- ⚡ Fun fact **Coding is my passport to a boundless digital journey! 💻😄**
+- 📫 Reach out to me **huzefamomin45@gmail.com**
+- ⚡ Fun fact: **Coding is the passport to a boundless digital journey! 💻😄**
 
 </br>
 
